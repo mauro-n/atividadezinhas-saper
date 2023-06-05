@@ -1,0 +1,29 @@
+body {
+    padding: 0px 15px;
+}
+.my-header {
+    height: 300px;
+}
+
+.my-header--1st {
+    font-size: 4.5em;
+}
+.my-header--1st--title {
+    transform: translateY(-5%);
+}
+.my-header--1st--subtitle {
+    padding-right: 1.9em;
+}
+.c-card-photo {
+    min-height: 150px;
+    height: 50%;
+}
+.c-card-body {
+    height: 50%;
+}
+.d-blue {
+    background-color: #9FC1E3;
+}
+.l-blue {
+    background-color: #CCEEFC;
+}
